@@ -31,3 +31,17 @@ Meu foco é principalmente no backend, porém também possuo conhecimento em fro
 ### Primeiro semestre (2023-1)
 O projeto desenvolvido no primeiro semestre do curso teve como empresa parceira a própria Fatec. Os requisitos foram apresentados pelo professor Antônio Egydio São Thiago Graça, que assumiu o papel de cliente final.
 
+O problema apresentado consistia na dificuldade de entendimento da metodologia Scrum por parte dos alunos, então como solução foi desenvolvido um site que ensinava a metodologia Scrum de forma prática, tanto por vídeos quanto por questões ao final de cada sessão.
+
+[Git](https://github.com/Sandro-Pimentel/AReS)
+
+#### Tecnologias Utilizadas 
+As seguintes tecnologias foram utilizadas nesse projeto:
+* HTML - Linguagem de marcação para a estruturação do site;
+* CSS - Linguagem de marcação para a estilização do site;
+* Python - Linguagem de programação utilizada no backend;
+* Flask - Framework do Python para criação de páginas no frontend;
+* JavaScript - Linguagem de programação usada no frontend;
+
+#### Contribuições Pessoais 
+Neste projeto atuei como Dev Team e 
