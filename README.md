@@ -1,6 +1,5 @@
-# TG
-
 # João Eduardo Messias Moreira
+![João Eduardo](/imagens/foto-tg.jpg)
 
 Meu nome é João Eduardo e tenho 19 anos. Iniciei meus estudos na área da computação no ano de 2023 pelo curso de Análise de Desenvolvimento de Sistemas na FATEC São José dos Campos. Eu conheci sobre programação no final de 2022, quando assisti alguns vídeos sobre a área e me interessei, desde então eu não parei de estudar sobre esta área.
 
@@ -33,7 +32,7 @@ O projeto desenvolvido no primeiro semestre do curso teve como empresa parceira 
 
 O problema apresentado consistia na dificuldade de entendimento da metodologia Scrum por parte dos alunos, então como solução foi desenvolvido um site que ensinava a metodologia Scrum de forma prática, tanto por vídeos quanto por questões ao final de cada sessão.
 
-[Git](https://github.com/Sandro-Pimentel/AReS)
+[GIT](https://github.com/Sandro-Pimentel/AReS)
 
 #### Tecnologias Utilizadas 
 As seguintes tecnologias foram utilizadas nesse projeto:
@@ -42,6 +41,19 @@ As seguintes tecnologias foram utilizadas nesse projeto:
 * Python - Linguagem de programação utilizada no backend;
 * Flask - Framework do Python para criação de páginas no frontend;
 * JavaScript - Linguagem de programação usada no frontend;
+* BootStrap - Framework de layouts prontos utilizado no frontend.
 
 #### Contribuições Pessoais 
-Neste projeto atuei como Dev Team e 
+Neste projeto atuei como Dev Team e produzi algumas páginas de questões, tanto desenvolvendo algumas perguntas quanto por fazer a página utilizando HTML, CSS e Python para os formulários. Foi produzido por mim também algumas páginas de aprendizados sobre o Scrum, como o Backlog e sobre MVPs.
+
+#### Hard Skills 
+Exercitei as seguintes hard skills durante esse projeto:
+* HTML - Uso com autonomia;
+* CSS - Uso com autonomia;
+* Python - Uso com autonomia;
+* JavaScript - Uso com ajuda.
+
+#### Soft Skills
+Durante o projeto, foi necessária muita resiliência, pois nunca tinha programado algo do nível e tinham alguns integrantes com o mesmo problema, porém com muita flexibilidade de aprendizado, eu e minha equipe, mesmo após a desistência de um integrante, conseguimos entregar resultados positivos nas sprints.
+
+Utilizei de muita comunicação para ajudar minha equipe, tanto com dados novos que eu pesquisava quanto com resoluções de certos problemas, como evitar usar JavaScript para fazer as páginas de questões e utilizar o Python, pois era mais simples e era uma linguagem que todos possuíamos mais conhecimento.
