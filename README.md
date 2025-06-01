@@ -57,3 +57,29 @@ Exercitei as seguintes hard skills durante esse projeto:
 Durante o projeto, foi necessária muita resiliência, pois nunca tinha programado algo do nível e tinham alguns integrantes com o mesmo problema, porém com muita flexibilidade de aprendizado, eu e minha equipe, mesmo após a desistência de um integrante, conseguimos entregar resultados positivos nas sprints.
 
 Utilizei de muita comunicação para ajudar minha equipe, tanto com dados novos que eu pesquisava quanto com resoluções de certos problemas, como evitar usar JavaScript para fazer as páginas de questões e utilizar o Python, pois era mais simples e era uma linguagem que todos possuíamos mais conhecimento.
+
+---
+### Segundo Semestre
+O projeto desenvolvido no segundo semestre do curso teve como empresa parceira a própria Fatec. Os requisitos foram apresentados pelo professor Giuliano ???, que assumiu o papel de cliente final.
+
+O problema apresentado consistia na dificuldade ???
+
+[GIT]()
+
+#### Tecnologias Utilizadas
+As seguintes tecnologias foram utilizadas nesse projeto:
+* Java - Linguagem de programação utilizada em todo o projeto
+
+#### Contribuições Pessoais
+Neste projeto atuei como Product Owner e produzi a página de chat onde seriam feitas as perguntas, a página de login e a tela de home.
+
+#### Hard Skills
+Exercitei as seguintes hard skills durante esse projeto:
+* Java - Uso com Ajuda.
+
+#### Soft Skills
+Durante o projeto, foi necessário muita progressão com minhas habilidades de fala ao falar com o cliente, além de ajudar as pessoas do grupo com a liguagem que era nova e muito verbal. 
+
+Tivemos alguns problemas com prazos, porém no fim 
+
+
