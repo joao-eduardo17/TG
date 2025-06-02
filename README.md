@@ -59,27 +59,67 @@ Durante o projeto, foi necessária muita resiliência, pois nunca tinha programa
 Utilizei de muita comunicação para ajudar minha equipe, tanto com dados novos que eu pesquisava quanto com resoluções de certos problemas, como evitar usar JavaScript para fazer as páginas de questões e utilizar o Python, pois era mais simples e era uma linguagem que todos possuíamos mais conhecimento.
 
 ---
-### Segundo Semestre
-O projeto desenvolvido no segundo semestre do curso teve como empresa parceira a própria Fatec. Os requisitos foram apresentados pelo professor Giuliano ???, que assumiu o papel de cliente final.
+### Segundo Semestre (2023-2)
+O projeto desenvolvido no segundo semestre do curso teve como empresa parceira a própria Fatec. Os requisitos foram apresentados pelo professor Giuliano Araújo Bertoti, que assumiu o papel de cliente final.
 
-O problema apresentado consistia na dificuldade ???
+O problema apresentado consistia na dificuldade dos usuários de lerem arquivos grandes e encontrarem as informações, sendo muito trabalhoso e inconsistente. Como solução, foi criado um ChatBot que respondia perguntas que foram mandadas após a análise de um arquivo, oferecendo velocidade e conforto ao procurar informação.
 
-[GIT]()
+[GIT](https://github.com/VituuSaborito/Lotus)
 
 #### Tecnologias Utilizadas
 As seguintes tecnologias foram utilizadas nesse projeto:
-* Java - Linguagem de programação utilizada em todo o projeto
+* Java - Linguagem de programação utilizada em todo o projeto;
+* MySQL - Banco de dados utilizado para guardar os logins e outros dados.
 
 #### Contribuições Pessoais
-Neste projeto atuei como Product Owner e produzi a página de chat onde seriam feitas as perguntas, a página de login e a tela de home.
+Neste projeto atuei como Product Owner e produzi a página de chat onde seriam feitas as perguntas, a página de login e a tela de home, além de consertar vários erros gerados pela dificuldade da linguagem.
 
 #### Hard Skills
 Exercitei as seguintes hard skills durante esse projeto:
-* Java - Uso com Ajuda.
+* Java - Uso com ajuda;
+* MySQL - Uso com autonomia.
 
 #### Soft Skills
-Durante o projeto, foi necessário muita progressão com minhas habilidades de fala ao falar com o cliente, além de ajudar as pessoas do grupo com a liguagem que era nova e muito verbal. 
+Durante o projeto, foi necessário desenvolver bastante minhas habilidades de comunicação verbal, especialmente ao interagir com o cliente, algo que exigiu mais segurança e clareza na fala. Também ajudei quem estava com dificuldade na linguagem, pois era nova para todos, contribuindo com explicações e revisões frequentes.
 
-Tivemos alguns problemas com prazos, porém no fim 
+Apesar de termos enfrentado desafios com prazos em algumas entregas, superaramos as barreiras com colaboração e uma comunicação eficiente. A capacidade de escuta, empatia e adaptação foram essenciais para manter o projeto em andamento e alcançar os objetivos propostos.
+
+---
+### Terceiro Semestre (2024-1)
+O projeto desenvolvido no segundo semestre do curso teve como empresa parceira a Pro4Tech, que oferece serviços de tranformação digital e IA. Os requisitos foram apresentados no KickOff por uma pessoa da Pro4Tech.
+
+O problema apresentado consistia na dificuldade de analizar e armazenar informações de planilhas Excel em um volume muito alto, então a solução criada foi desenvolver um dashboard com uma interface que permite o envio de planilhas e a visualização em gráficos.
+
+[GIT](https://github.com/Code-Lotus/api-3)
+
+#### Tecnologias Utilizadas
+As seguintes tecnologias foram utilizadas nesse projeto:
+* TypeScript - Linguagem de programação utilizada com tipagem estática;
+* React - Biblioteca para construção das interfaces, integrada ao TypeScript;
+* SCSS - Pré-processador CSS que facilita a organização e reutilização de estilos;
+* MySQL - Banco de dados utilizado para guardar os logins e outros dados.
+
+#### Contribuições Pessoais
+Neste projeto atuei como Dev Team, produzindo a tela de login, as telas iniciais de administrador e usuário, as funções no backend e o banco de dados.
+
+#### Hard Skills
+Exercitei as seguintes hard skills durante esse projeto:
+* TypeScript - Uso com autonomia;
+* React - Uso com ajuda;
+* SCSS - Uso com autonomia;
+* MySQL - Uso com autonomia.
+
+#### Soft Skills
+Durante o projeto, foi necessário muitas pesquisas com a linguagem nova, além da biblioteca React e o SCSS que substituíam o HTML e o CSS. Utilizei de muita comunicação para ajudar meus colegas, principalmente no backend, onde estava hospedado o banco de dados.
+
+Também desenvolvi resiliência e proatividade ao lidar com desafios técnicos e prazos apertados, mantendo o foco na colaboração e na entrega em equipe.
+
+---
+### Quarto Semestre (2024-2)
+O projeto desenvolvido no quarto semestre do curso teve como empresa parceira a JJM LOG, uma empresa especializada em transporte e logística integrada. Os requisitos foram apresentados no KickOff por uma pessoa da JJM LOG.
+
+O problema apresentado consistia em dificuldades no gerenciamento logístico, devido à falta de integração e à comunicação falha entre os setores, então como solução foi desenvolvido uma plataforma integrada que centraliza funções essenciais da rotina empresarial e melhora a organização e comunicação interna.
+
+[GIT]()
 
 
