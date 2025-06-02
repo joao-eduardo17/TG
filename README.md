@@ -120,6 +120,57 @@ O projeto desenvolvido no quarto semestre do curso teve como empresa parceira a 
 
 O problema apresentado consistia em dificuldades no gerenciamento logístico, devido à falta de integração e à comunicação falha entre os setores, então como solução foi desenvolvido uma plataforma integrada que centraliza funções essenciais da rotina empresarial e melhora a organização e comunicação interna.
 
-[GIT]()
+[GIT](https://github.com/Byte-Boost/WeCollab)
 
+#### Tecnologiaas Utilizadas
+As seguintes tecnologias foram utilizadas nesse projeto:
+* TypeScript - Linguagem de programação utilizada no frontend;
+* JavaScript - Linguagem de programação utilizada no backend;
+* React - Biblioteca para construção das interfaces, integrada ao TypeScript;
+* MySQL - Banco de dados utilizado para guardar os logins e outros dados.
+
+#### Contribuições Pessoais
+Neste projeto atuei como Dev Team e produzi a página de upload de arquivos e estilização da página de usuários, além da criação da rotas e componentes de tickets.
+
+#### Hard skills
+Exercitei as seguintes hard skills durante esse projeto:
+* TypeScript - Uso com autonomia;
+* JavaScript - Uso com autonomia;
+* React - Uso com ajuda;
+* MySQL - Uso com autonomia.
+
+#### Soft Skills
+Durante o projeto, foi necessário ajuda dos outros integrantes, pois eu havia mudado de grupo, mudando também o estilo base do projeto, porém com muita pesquisa e autonomia o resultado foi positivo.
+
+Desenvolvi resiliência emocional ao lidar com um novo ambiente de trabalho em equipe e mantive uma postura comunicativa e participativa, o que facilitou minha integração e fortaleceu o trabalho coletivo.
+
+---
+### Quinto Semestre (2025-1)
+O projeto desenvolvido no quarto semestre do curso teve como empresa parceira a GSW, uma empresa especializada em desenvolvimento e implantação de soluções para empresas. Os requisitos foram apresentados no KickOff por uma pessoa da GSW.
+
+O problema apresentado consistia na gestão ineficiente de reembolsos e despesas por conta de processos manuais e falta de integração, então como solução foi desenvolvido uma aplicação móvel que permite os funcionários cadastrar despesas para receberem seus reembolsos.
+
+[GIT](https://github.com/Byte-Boost/ExpenseFlow)
+
+#### Tecnologiaas Utilizadas
+As seguintes tecnologias foram utilizadas nesse projeto:
+* TypeScript - Linguagem de programação utilizada no frontend;
+* JavaScript - Linguagem de programação utilizada no backend;
+* React Native - Biblioteca para construção das interfaces mobile, integrada ao TypeScript;
+* PostgreSQL - Banco de dados utilizado para guardar os logins e outros dados.
+
+#### Contribuições Pessoais
+Neste projeto atuei como Dev Team e produzi a feature de anexar arquivos do reembolso, filtros do reembolso e a tela inicial do usuário após o login.
+
+#### Hard skills
+Exercitei as seguintes hard skills durante esse projeto:
+* TypeScript - Uso com autonomia;
+* JavaScript - Uso com autonomia;
+* React Native - Uso com ajuda;
+* PostgreSQL - Uso com autonomia.
+
+#### Soft Skills
+Durante o projeto, foi necessário uma grande comunicação entre a equipe, pois tínhamos uma sprint a menos que o habitual, então as tarefas tiveram que ser divididas de acordo, mas com muita comunicação e cooperação da equipe, conseguimos terminar tudo no prazo.
+
+Além disso, a gestão do tempo e a organização foram fundamentais, já que o prazo reduzido exigia foco e priorização constante. Aprendi a lidar melhor com a pressão, mantendo o equilíbrio entre agilidade e qualidade, sempre buscando alinhar as entregas com os objetivos do time.
 
