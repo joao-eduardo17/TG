@@ -86,7 +86,7 @@ Apesar de termos enfrentado desafios com prazos em algumas entregas, superaramos
 
 ---
 ### Terceiro Semestre (2024-1)
-O projeto desenvolvido no segundo semestre do curso teve como empresa parceira a Pro4Tech, que oferece serviços de tranformação digital e IA. Os requisitos foram apresentados no KickOff por uma pessoa da Pro4Tech.
+O projeto desenvolvido no terceiro semestre do curso teve como empresa parceira a Pro4Tech, que oferece serviços de tranformação digital e IA. Os requisitos foram apresentados no KickOff por uma pessoa da Pro4Tech.
 
 O problema apresentado consistia na dificuldade de analizar e armazenar informações de planilhas Excel em um volume muito alto, então a solução criada foi desenvolver um dashboard com uma interface que permite o envio de planilhas e a visualização em gráficos.
 
@@ -146,7 +146,7 @@ Desenvolvi resiliência emocional ao lidar com um novo ambiente de trabalho em e
 
 ---
 ### Quinto Semestre (2025-1)
-O projeto desenvolvido no quarto semestre do curso teve como empresa parceira a GSW, uma empresa especializada em desenvolvimento e implantação de soluções para empresas. Os requisitos foram apresentados no KickOff por uma pessoa da GSW.
+O projeto desenvolvido no quinto semestre do curso teve como empresa parceira a GSW, uma empresa especializada em desenvolvimento e implantação de soluções para empresas. Os requisitos foram apresentados no KickOff por uma pessoa da GSW.
 
 O problema apresentado consistia na gestão ineficiente de reembolsos e despesas por conta de processos manuais e falta de integração, então como solução foi desenvolvido uma aplicação móvel que permite os funcionários cadastrar despesas para receberem seus reembolsos.
 
