@@ -30,7 +30,8 @@ Meu foco é principalmente no backend, porém também possuo conhecimento em fro
 ### Primeiro semestre (2023-1)
 O projeto desenvolvido no primeiro semestre do curso teve como empresa parceira a própria Fatec. Os requisitos foram apresentados pelo professor Antônio Egydio São Thiago Graça, que assumiu o papel de cliente final.
 
-O problema apresentado consistia na dificuldade de entendimento da metodologia Scrum por parte dos alunos, então como solução foi desenvolvido um site que ensinava a metodologia Scrum de forma prática, tanto por vídeos quanto por questões ao final de cada sessão.
+O problema apresentado consistia na dificuldade de entendimento da metodologia Scrum por parte dos alunos.
+Como solução foi desenvolvido um site que ensinava a metodologia Scrum de forma prática, tanto por vídeos quanto por questões ao final de cada sessão.
 
 [GIT](https://github.com/Sandro-Pimentel/AReS)
 
@@ -62,7 +63,8 @@ Utilizei de muita comunicação para ajudar minha equipe, tanto com dados novos 
 ### Segundo Semestre (2023-2)
 O projeto desenvolvido no segundo semestre do curso teve como empresa parceira a própria Fatec. Os requisitos foram apresentados pelo professor Giuliano Araújo Bertoti, que assumiu o papel de cliente final.
 
-O problema apresentado consistia na dificuldade dos usuários de lerem arquivos grandes e encontrarem as informações, sendo muito trabalhoso e inconsistente. Como solução, foi criado um ChatBot que respondia perguntas que foram mandadas após a análise de um arquivo, oferecendo velocidade e conforto ao procurar informação.
+O problema apresentado consistia na dificuldade dos usuários de lerem arquivos grandes e encontrarem as informações, sendo muito trabalhoso e inconsistente. 
+Como solução, foi criado um ChatBot que respondia perguntas que foram mandadas após a análise de um arquivo, oferecendo velocidade e conforto ao procurar informação.
 
 [GIT](https://github.com/VituuSaborito/Lotus)
 
@@ -88,7 +90,8 @@ Apesar de termos enfrentado desafios com prazos em algumas entregas, superaramos
 ### Terceiro Semestre (2024-1)
 O projeto desenvolvido no terceiro semestre do curso teve como empresa parceira a Pro4Tech, que oferece serviços de tranformação digital e IA. Os requisitos foram apresentados no KickOff por uma pessoa da Pro4Tech.
 
-O problema apresentado consistia na dificuldade de analizar e armazenar informações de planilhas Excel em um volume muito alto, então a solução criada foi desenvolver um dashboard com uma interface que permite o envio de planilhas e a visualização em gráficos.
+O problema apresentado consistia na dificuldade de analizar e armazenar informações de planilhas Excel em um volume muito alto.
+A solução criada foi desenvolver um dashboard com uma interface que permite o envio de planilhas e a visualização em gráficos.
 
 [GIT](https://github.com/Code-Lotus/api-3)
 
@@ -118,7 +121,8 @@ Também desenvolvi resiliência e proatividade ao lidar com desafios técnicos e
 ### Quarto Semestre (2024-2)
 O projeto desenvolvido no quarto semestre do curso teve como empresa parceira a JJM LOG, uma empresa especializada em transporte e logística integrada. Os requisitos foram apresentados no KickOff por uma pessoa da JJM LOG.
 
-O problema apresentado consistia em dificuldades no gerenciamento logístico, devido à falta de integração e à comunicação falha entre os setores, então como solução foi desenvolvido uma plataforma integrada que centraliza funções essenciais da rotina empresarial e melhora a organização e comunicação interna.
+O problema apresentado consistia em dificuldades no gerenciamento logístico, devido à falta de integração e à comunicação falha entre os setores.
+Como solução, foi desenvolvido uma plataforma integrada que centraliza funções essenciais da rotina empresarial e melhora a organização e comunicação interna.
 
 [GIT](https://github.com/Byte-Boost/WeCollab)
 
@@ -148,7 +152,8 @@ Desenvolvi resiliência emocional ao lidar com um novo ambiente de trabalho em e
 ### Quinto Semestre (2025-1)
 O projeto desenvolvido no quinto semestre do curso teve como empresa parceira a GSW, uma empresa especializada em desenvolvimento e implantação de soluções para empresas. Os requisitos foram apresentados no KickOff por uma pessoa da GSW.
 
-O problema apresentado consistia na gestão ineficiente de reembolsos e despesas por conta de processos manuais e falta de integração, então como solução foi desenvolvido uma aplicação móvel que permite os funcionários cadastrar despesas para receberem seus reembolsos.
+O problema apresentado consistia na gestão ineficiente de reembolsos e despesas por conta de processos manuais e falta de integração.
+Como solução foi desenvolvido uma aplicação móvel que permite os funcionários cadastrar despesas para receberem seus reembolsos.
 
 [GIT](https://github.com/Byte-Boost/ExpenseFlow)
 
