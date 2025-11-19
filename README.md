@@ -1,9 +1,9 @@
 # João Eduardo Messias Moreira
 ![João Eduardo](/imagens/foto-tg.jpg)
 
-Meu nome é João Eduardo e tenho 19 anos. Iniciei meus estudos na área da computação no ano de 2023 pelo curso de Análise de Desenvolvimento de Sistemas na FATEC São José dos Campos. Eu conheci sobre programação no final de 2022, quando assisti alguns vídeos sobre a área e me interessei, desde então eu não parei de estudar sobre esta área.
+Meu nome é João Eduardo e tenho 20 anos. Iniciei meus estudos na área da computação no ano de 2023 pelo curso de Análise de Desenvolvimento de Sistemas na FATEC São José dos Campos. Eu conheci sobre programação no final de 2022, quando assisti alguns vídeos sobre a área e me interessei, desde então eu não parei de estudar sobre esta área.
 
-Profissionalmente, iniciei minha carreira como Estagiário em Desenvolvimento Web na empresa MIDIASIM em julho de 2024 e que trabalho até hoje, onde utilizo a linguagem Python com o framework Flask para o desenvolvimento de sites.
+Profissionalmente, iniciei minha carreira como Estagiário em Desenvolvimento Web na empresa MIDIASIM em julho de 2024 e que foi finalizado em junho de 2025, onde utilizava a linguagem Python com o framework Flask para o desenvolvimento de sites, além de HTML, CSS e JavaScript.
 
 ## Contatos
 
@@ -15,7 +15,6 @@ Profissionalmente, iniciei minha carreira como Estagiário em Desenvolvimento We
 
 Meu foco é principalmente no backend, porém também possuo conhecimento em frontend. Entre meus conhecimentos, estão:
 * Python
-* Framework Flask
 * Java
 * JavaScript
 * TypeScript
@@ -184,3 +183,42 @@ Durante o projeto, foi necessário uma grande comunicação entre a equipe, pois
 
 Além disso, a gestão do tempo e a organização foram fundamentais, já que o prazo reduzido exigia foco e priorização constante. Aprendi a lidar melhor com a pressão, mantendo o equilíbrio entre agilidade e qualidade, sempre buscando alinhar as entregas com os objetivos do time.
 
+---
+### Sexto Semestre (2025-2)
+O projeto desenvolvido no sexto semestre do curso teve como empresa parceira a Xertica, uma empresa especializada em consultoria de nuvem pública e soluções de inteligência artificial. Os requisitos foram apresentados no KickOff pelo diretor da Xertica.
+
+O problema apresentado consiste na falta de um nutricionista e ferramentas de nutrição confiáveis no dia-a-dia, o excesso de informações errôneas e falsas na internet, principalmente de pessoas que tem comorbidades ou problemas de saúde específicos.
+
+Como solução foi desenvolvido um agente conversacional sobre nutrição para uma orientação personalizada para os usuários. Utilizando uma plataforma web, são coletadas as informações de anamnese para fornecer dietas e informações de acordo com as informações do usuário.
+
+[GIT](https://github.com/Byte-Boost/Junipy)
+
+#### Tecnologiaas Utilizadas
+As seguintes tecnologias foram utilizadas nesse projeto:
+* Python - Linguagem de programação utilizada para desenvolver o agente conversacional;
+* FastAPI - Framework utilizado para a comunicação com o backend por meio de APIs;
+* Java - Linguagem de programação utilizado totalmente no backend;
+* SpringBoot - Framework utilizado para a criação de APIs e fornecer comunicação com a IA e Frontend;
+* TypeScript - Linguagem de programação utilizado para a lógica no Frontend;
+* Vue - Framework utilizado para a construção dos elementos web do Frontend;
+* MySQL - Banco de dados relacional utilizado para guardar os logins e outros dados;
+* MongoDB - Banco de dados não relacional usado para informações do usuário.
+
+#### Contribuições Pessoais
+Neste projeto atuei como Dev Team e produzi o ajuste de saída do agente de dieta, a tela de dietas para enviar ao nutricionista e o agente de anamnese, que coleta as informações do usuário para fazer as dietas.
+
+#### Hard skills
+Exercitei as seguintes hard skills durante esse projeto:
+* Python - Uso com autonomia;
+* FastAPI - Uso com autonomia;
+* Java - Uso com autonomia;
+* SpringBoot - Uso com ajuda;
+* TypeScript - Uso com autonomia;
+* Vue - Uso com ajuda;
+* MySQL - Uso com autonomia;
+* MongoDB - Uso com ajuda.
+
+#### Soft Skills
+Durante o projeto, também desenvolvi diversas soft skills importantes. Trabalhei ativamente em equipe para integrar as diferentes partes do sistema e mantive uma comunicação clara com o time, garantindo alinhamento nas entregas. A resolução de problemas foi constante, especialmente ao ajustar a saída do agente de dieta e aprimorar o agente de anamnese.
+
+Além disso, a adaptação às tecnologias utilizadas e a gestão do tempo foram essenciais para lidar com o prazo reduzido e com as demandas simultâneas. Mantive pensamento crítico para analisar requisitos e melhorar as respostas da IA, e fui proativo ao assumir tarefas fundamentais para o funcionamento do produto.
