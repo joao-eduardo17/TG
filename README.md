@@ -13,47 +13,40 @@ Profissionalmente, iniciei minha carreira como Estagiário em Desenvolvimento We
 
 ## Meus Principais Conhecimentos
 
-Meu foco é principalmente no backend, porém também possuo conhecimento em frontend. Entre meus conhecimentos, estão:
-* Python
-* Java
-* JavaScript
-* TypeScript
-* MySQL
-* PostgreSQL
-* React
-* HTML
-* CSS
+Meu foco é principalmente no backend, onde possuo maior domínio na criação de APIs, integração entre sistemas e manipulação de dados com linguegens como Python, Java, JavaScript e TypeScript. Também possuo conhecimento de bancos de dados MySQL e PostgreSQL incluindo modelagem, implementação de consultas e integração com aplicações backend. Apesar do foco ser backend, também tenho conhecimento em frontend, especialmente com React. Essa combinação me ajuda a atuar de forma mais integrada em projetos full stack, mantendo boa comunicação entre as camadas e garantindo soluções mais completas.
 
 ## Meus projetos
 
 <details>
 <summary>Primeiro semestre (2023-1)</summary>
-O projeto desenvolvido no primeiro semestre do curso teve como empresa parceira a própria Fatec. Os requisitos foram apresentados pelo professor Antônio Egydio São Thiago Graça, que assumiu o papel de cliente final.
+<br>
+  
+O projeto desenvolvido no primeiro semestre do curso teve como empresa parceira a própria Fatec. Os requisitos foram apresentados pelo professor Antônio Egydio São Thiago Graça, que assumiu o papel de cliente final, orientando a equipe como se fosse uma instituição externa contratando uma solução.
 
-O problema apresentado consistia na dificuldade de entendimento da metodologia Scrum por parte dos alunos.
+**Problema:** A necessidade central identificada era a dificuldade dos alunos em compreender a metodologia Scrum. Apesar de ser amplamente utilizada em projetos de tecnologia e gestão ágil, muitos estudantes apresentavam dúvidas sobre como funcionava cada cerimônia do Scrum, quais eram os papéis e responsabilidades, como organizar sprints, backlog e entregas e como aplicar a teoria em situações práticas.
 
-Como solução foi desenvolvido um site que ensinava a metodologia Scrum de forma prática, tanto por vídeos quanto por questões ao final de cada sessão.
+**Solução:** Como solução foi desenvolvido um site que ensinava a metodologia Scrum de forma prática, tanto por vídeos quanto por questões ao final de cada sessão. O conteúdo era apresentado de forma sequencial, combinando explicações objetivas com vídeos que tornavam o aprendizado mais acessível. Além disso, ao final de cada sessão, o usuário respondia a questões que reforçavam o entendimento e permitiam verificar na hora se havia compreendido o tema.
 
 [GIT](https://github.com/Sandro-Pimentel/AReS)
 
 #### Tecnologias Utilizadas 
-As seguintes tecnologias foram utilizadas nesse projeto:
-* HTML - Linguagem de marcação para a estruturação do site;
-* CSS - Linguagem de marcação para a estilização do site;
-* Python - Linguagem de programação utilizada no backend;
-* Flask - Framework do Python para criação de páginas no frontend;
-* JavaScript - Linguagem de programação usada no frontend;
-* BootStrap - Framework de layouts prontos utilizado no frontend.
+As principais tecnologias adotadas ao longo do desenvolvimento foram:
+* HTML – Utilizado para estruturar as páginas e organizar os elementos do site.
+* CSS – Responsável pela estilização, garantindo melhor apresentação visual e usabilidade.
+* Python – Linguagem aplicada no backend para lidar com regras de negócio e formulários.
+* Flask – Framework em Python que possibilitou a criação das rotas, páginas e integração entre frontend e backend.
+* JavaScript – Empregado na camada de interação do usuário, adicionando dinamismo às páginas.
+* Bootstrap – Framework utilizado para agilizar o layout e garantir responsividade.
 
 #### Contribuições Pessoais 
-Neste projeto atuei como Dev Team e produzi algumas páginas de questões, tanto desenvolvendo algumas perguntas quanto por fazer a página utilizando HTML, CSS e Python para os formulários. Foi produzido por mim também algumas páginas de aprendizados sobre o Scrum, como o Backlog e sobre MVPs.
+Atuei como integrante do Dev Team, contribuindo diretamente para o desenvolvimento das páginas de questões e conteúdos. Produzi tanto as perguntas quanto a implementação das telas, utilizando HTML, CSS e Python para estruturar os formulários e integrar as respostas. Também participei da elaboração de páginas de estudo sobre a metodologia Scrum, incluindo explicações sobre Product Backlog e MVPs, garantindo que o conteúdo estivesse acessível e organizado de forma pedagógica.
 
 #### Hard Skills 
-Exercitei as seguintes hard skills durante esse projeto:
-* HTML - Uso com autonomia;
-* CSS - Uso com autonomia;
-* Python - Uso com autonomia;
-* JavaScript - Uso com ajuda.
+Exercitei as seguintes competências durante esse projeto:
+* HTML - Aplicação com autonomia;
+* CSS - Aplicação com autonomia;
+* Python - Aplicação com autonomia;
+* JavaScript - Aplicação com ajuda.
 
 #### Soft Skills
 Durante o projeto, foi necessária muita resiliência, pois nunca tinha programado algo do nível e tinham alguns integrantes com o mesmo problema, porém com muita flexibilidade de aprendizado, eu e minha equipe, mesmo após a desistência de um integrante, conseguimos entregar resultados positivos nas sprints.
@@ -63,139 +56,149 @@ Utilizei de muita comunicação para ajudar minha equipe, tanto com dados novos 
 
 <details>
 <summary>Segundo Semestre (2023-2)</summary>
-O projeto desenvolvido no segundo semestre do curso teve como empresa parceira a própria Fatec. Os requisitos foram apresentados pelo professor Giuliano Araújo Bertoti, que assumiu o papel de cliente final.
+<br>
 
-O problema apresentado consistia na dificuldade dos usuários de lerem arquivos grandes e encontrarem as informações, sendo muito trabalhoso e inconsistente.
+O projeto desenvolvido no segundo semestre do curso teve como empresa parceira a própria Fatec. Os requisitos foram apresentados pelo professor Giuliano Araújo Bertoti, que assumiu o papel de cliente final e acompanhou todas as etapas do desenvolvimento.
 
-Como solução, foi criado um ChatBot que respondia perguntas que foram mandadas após a análise de um arquivo, oferecendo velocidade e conforto ao procurar informação.
+**Problema:** O problema apresentado consistia na dificuldade dos usuários em ler arquivos extensos e localizar informações específicas, tornando o processo lento, cansativo e vulnerável a erros.
+
+**Solução:** Como solução, foi criado um ChatBot capaz de responder perguntas com base na análise prévia de um arquivo, oferecendo maior velocidade, precisão e praticidade na busca por informações.
 
 [GIT](https://github.com/VituuSaborito/Lotus)
 
 #### Tecnologias Utilizadas
-As seguintes tecnologias foram utilizadas nesse projeto:
-* Java - Linguagem de programação utilizada em todo o projeto;
-* MySQL - Banco de dados utilizado para guardar os logins e outros dados.
+As principais tecnologias adotadas ao longo do desenvolvimento foram:
+* Java - Linguagem utilizada em todo o projeto, incluindo backend e lógica de análise;
+* MySQL - Banco de dados utilizado para armazenamento de logins, registros e demais informações persistentes.
 
 #### Contribuições Pessoais
-Neste projeto atuei como Product Owner e produzi a página de chat onde seriam feitas as perguntas, a página de login e a tela de home, além de consertar vários erros gerados pela dificuldade da linguagem.
+Nesse projeto atuei como Product Owner, sendo responsável por auxiliar na visão do produto e garantir que as necessidades do cliente fossem atendidas. No desenvolvimento, produzi a página de chat, onde as perguntas eram enviadas ao sistema, além da página de login e da tela inicial (home). Também realizei diversas correções relacionadas à dificuldade da equipe com Java, contribuindo para a estabilidade e funcionamento do sistema.
 
 #### Hard Skills
-Exercitei as seguintes hard skills durante esse projeto:
-* Java - Uso com ajuda;
-* MySQL - Uso com autonomia.
+Exercitei as seguintes competências durante esse projeto:
+* Java - Aplicação com ajuda;
+* MySQL - Aplicação com autonomia.
 
 #### Soft Skills
-Durante o projeto, foi necessário desenvolver bastante minhas habilidades de comunicação verbal, especialmente ao interagir com o cliente, algo que exigiu mais segurança e clareza na fala. Também ajudei quem estava com dificuldade na linguagem, pois era nova para todos, contribuindo com explicações e revisões frequentes.
+O projeto demandou um alto nível de resiliência, especialmente pela complexidade do desafio e pela curva de aprendizado envolvida. Houve também a necessidade de lidar com imprevistos, como a desistência de um integrante, o que exigiu flexibilidade, adaptação rápida e reorganização das tarefas. 
 
-Apesar de termos enfrentado desafios com prazos em algumas entregas, superaramos as barreiras com colaboração e uma comunicação eficiente. A capacidade de escuta, empatia e adaptação foram essenciais para manter o projeto em andamento e alcançar os objetivos propostos.
+A comunicação foi essencial para o bom andamento da equipe. Compartilhei frequentemente descobertas, materiais de estudo e soluções para obstáculos que enfrentávamos. Em vários momentos, ajudei o grupo a simplificar processos — como optar pelo uso de Python nos formulários, em vez de JavaScript — priorizando o que era mais eficiente e alinhado às habilidades do time.
 </details>
 
 <details>
 <summary>Terceiro Semestre (2024-1)</summary>
-O projeto desenvolvido no terceiro semestre do curso teve como empresa parceira a Pro4Tech, que oferece serviços de tranformação digital e IA. Os requisitos foram apresentados no KickOff por uma pessoa da Pro4Tech.
+<br>
 
-O problema apresentado consistia na dificuldade de analizar e armazenar informações de planilhas Excel em um volume muito alto.
+O projeto desenvolvido no terceiro semestre do curso teve como empresa parceira a Pro4Tech, uma empresa especializada em transformação digital e soluções de Inteligência Artificial. Os requisitos foram apresentados durante o KickOff por um representante da empresa, que assumiu o papel de cliente final.
 
-A solução criada foi desenvolver um dashboard com uma interface que permite o envio de planilhas e a visualização em gráficos.
+**Problema:** O problema identificado estava relacionado à dificuldade em analisar e armazenar informações de planilhas Excel em grande volume. Esse processo, quando realizado de forma manual, era lento e sujeito a falhas.
+
+**Solução:** Como solução, foi desenvolvido um dashboard interativo, com uma interface intuitiva que permitia o envio das planilhas e exibia automaticamente os dados processados em forma de gráficos, tornando a análise mais acessível para o usuário.
 
 [GIT](https://github.com/Code-Lotus/api-3)
 
 #### Tecnologias Utilizadas
-As seguintes tecnologias foram utilizadas nesse projeto:
-* TypeScript - Linguagem de programação utilizada com tipagem estática;
-* React - Biblioteca para construção das interfaces, integrada ao TypeScript;
+As principais tecnologias adotadas ao longo do desenvolvimento foram:
+* TypeScript - Linguagem de programação utilizada pela sua tipagem estática e segura;
+* React - Biblioteca para construção das interfaces integradas ao TypeScript;
 * SCSS - Pré-processador CSS que facilita a organização e reutilização de estilos;
-* MySQL - Banco de dados utilizado para guardar os logins e outros dados.
+* MySQL - Banco de dados responsável por armazenar logins e demais informações persistentes.
 
 #### Contribuições Pessoais
-Neste projeto atuei como Dev Team, produzindo a tela de login, as telas iniciais de administrador e usuário, as funções no backend e o banco de dados.
+Atuei como Dev Team, sendo responsável pela criação da tela de login, das páginas iniciais voltadas para administradores e usuários, além do desenvolvimento de funções no backend e da estruturação do banco de dados.
 
 #### Hard Skills
-Exercitei as seguintes hard skills durante esse projeto:
-* TypeScript - Uso com autonomia;
-* React - Uso com ajuda;
-* SCSS - Uso com autonomia;
-* MySQL - Uso com autonomia.
+Exercitei as seguintes competências durante esse projeto:
+* TypeScript - Aplicação com autonomia;
+* React - Aplicação com ajuda;
+* SCSS - Aplicação com autonomia;
+* MySQL - Aplicação com autonomia.
 
 #### Soft Skills
-Durante o projeto, foi necessário muitas pesquisas com a linguagem nova, além da biblioteca React e o SCSS que substituíam o HTML e o CSS. Utilizei de muita comunicação para ajudar meus colegas, principalmente no backend, onde estava hospedado o banco de dados.
+Por envolver tecnologias novas para a equipe — como TypeScript, React e SCSS — o projeto exigiu pesquisa constante, capacidade de adaptação e aprendizado rápido. Mantive uma comunicação clara com meus colegas, especialmente na parte de backend, onde estava centralizado o banco de dados e onde pude fornecer suporte adicional.
 
-Também desenvolvi resiliência e proatividade ao lidar com desafios técnicos e prazos apertados, mantendo o foco na colaboração e na entrega em equipe.
+Além disso, desenvolvi resiliência ao lidar com desafios técnicos e proatividade ao buscar soluções, sempre priorizando a colaboração e a entrega consistente nas sprints. Essas habilidades foram essenciais para garantir o bom andamento do projeto e o cumprimento das metas estabelecidas.
 </details>
 
 <details>
 <summary>Quarto Semestre (2024-2)</summary>
-O projeto desenvolvido no quarto semestre do curso teve como empresa parceira a JJM LOG, uma empresa especializada em transporte e logística integrada. Os requisitos foram apresentados no KickOff por uma pessoa da JJM LOG.
+<br>
 
-O problema apresentado consistia em dificuldades no gerenciamento logístico, devido à falta de integração e à comunicação falha entre os setores.
+O projeto desenvolvido no quarto semestre do curso teve como empresa parceira a JJM LOG, uma empresa especializada em transporte e logística integrada. Os requisitos foram apresentados durante o KickOff por um representante da JJM LOG, que assumiu o papel de cliente.
 
-Como solução, foi desenvolvido uma plataforma integrada que centraliza funções essenciais da rotina empresarial e melhora a organização e comunicação interna.
+**Problema:** O problema central identificado envolvia dificuldades no gerenciamento logístico, resultantes da falta de integração entre setores e falhas na comunicação interna, o que impactava a eficiência.
+
+**Solução:** Como solução, foi desenvolvida uma plataforma integrada capaz de centralizar funções essenciais da rotina empresarial, organizar informações em um único ambiente e melhorar a comunicação entre equipes.
 
 [GIT](https://github.com/Byte-Boost/WeCollab)
 
 #### Tecnologiaas Utilizadas
 As seguintes tecnologias foram utilizadas nesse projeto:
-* TypeScript - Linguagem de programação utilizada no frontend;
-* JavaScript - Linguagem de programação utilizada no backend;
-* React - Biblioteca para construção das interfaces, integrada ao TypeScript;
-* MySQL - Banco de dados utilizado para guardar os logins e outros dados.
+* TypeScript - Linguagem de programação utilizada pela sua tipagem estática e segura;
+* JavaScript - Linguagem de programação aplicada no backend para lidar com rotas, lógica e integrações;
+* React - Biblioteca para construção das interfaces integradas ao TypeScript;
+* MySQL - Banco de dados usado para armazenar logins, tickets e demais informações da plataforma.
 
 #### Contribuições Pessoais
-Neste projeto atuei como Dev Team e produzi a página de upload de arquivos e estilização da página de usuários, além da criação da rotas e componentes de tickets.
+Atuei como Dev Team, contribuindo diretamente para o desenvolvimento da página de upload de arquivos, da estilização da página de usuários e da implementação das rotas e componentes referentes ao sistema de tickets, garantindo o funcionamento consistente dessas áreas da aplicação.
 
 #### Hard skills
-Exercitei as seguintes hard skills durante esse projeto:
-* TypeScript - Uso com autonomia;
-* JavaScript - Uso com autonomia;
-* React - Uso com ajuda;
-* MySQL - Uso com autonomia.
+Exercitei as seguintes competências durante esse projeto:
+* TypeScript - Aplicação com autonomia;
+* JavaScript - Aplicação com autonomia;
+* React - Aplicação com ajuda;
+* MySQL - Aplicação com autonomia.
 
 #### Soft Skills
-Durante o projeto, foi necessário ajuda dos outros integrantes, pois eu havia mudado de grupo, mudando também o estilo base do projeto, porém com muita pesquisa e autonomia o resultado foi positivo.
+Por ter mudado de grupo no início do semestre, precisei me adaptar rapidamente a um novo estilo de código, organização e dinâmica de trabalho. Com apoio dos colegas, pesquisa constante e autonomia, consegui me integrar ao fluxo do projeto e entregar resultados positivos.
 
-Desenvolvi resiliência emocional ao lidar com um novo ambiente de trabalho em equipe e mantive uma postura comunicativa e participativa, o que facilitou minha integração e fortaleceu o trabalho coletivo.
+Desenvolvi resiliência emocional, lidando bem com a mudança de ambiente e mantendo uma postura comunicativa e proativa, o que facilitou a colaboração e fortaleceu o trabalho coletivo ao longo das sprints.
 </details>
 
 <details>
 <summary>Quinto Semestre (2025-1)</summary>
-O projeto desenvolvido no quinto semestre do curso teve como empresa parceira a GSW, uma empresa especializada em desenvolvimento e implantação de soluções para empresas. Os requisitos foram apresentados no KickOff por uma pessoa da GSW.
+<br>
 
-O problema apresentado consistia na gestão ineficiente de reembolsos e despesas por conta de processos manuais e falta de integração.
+O projeto desenvolvido no quinto semestre do curso teve como empresa parceira a GSW, uma empresa especializada no desenvolvimento e implantação de soluções corporativas. Os requisitos foram apresentados durante o KickOff por um representante da empresa, que desempenhou o papel de cliente.
 
-Como solução foi desenvolvido uma aplicação móvel que permite os funcionários cadastrar despesas para receberem seus reembolsos.
+**Problema:** O problema identificado estava relacionado à gestão ineficiente de reembolsos e despesas, causada por processos manuais, falhas de organização e ausência de integração entre setores, o que gerava atrasos e inconsistências no controle financeiro interno.
+
+**Solução:** Como solução, foi desenvolvida uma aplicação móvel que permite aos funcionários registrar suas despesas diretamente pelo celular, anexar comprovantes e acompanhar o status dos reembolsos, tornando o processo mais ágil, prático e centralizado.
 
 [GIT](https://github.com/Byte-Boost/ExpenseFlow)
 
 #### Tecnologiaas Utilizadas
-As seguintes tecnologias foram utilizadas nesse projeto:
-* TypeScript - Linguagem de programação utilizada no frontend;
-* JavaScript - Linguagem de programação utilizada no backend;
-* React Native - Biblioteca para construção das interfaces mobile, integrada ao TypeScript;
-* PostgreSQL - Banco de dados utilizado para guardar os logins e outros dados.
+As principais tecnologias foram utilizadas nesse projeto:
+* TypeScript - Linguagem de programação utilizada pela sua tipagem estática e segura;
+* JavaScript - Linguagem de programação utilizada no backend para comunicação com o banco de dados;
+* React Native - Biblioteca utilizada para o desenvolvimento da interface mobile, integrada ao TypeScript;
+* PostgreSQL - Banco de dados responsável por armazenar logins, despesas, anexos e demais informações.
 
 #### Contribuições Pessoais
-Neste projeto atuei como Dev Team e produzi a feature de anexar arquivos do reembolso, filtros do reembolso e a tela inicial do usuário após o login.
+Neste projeto, atuei como Dev Team, sendo responsável pelo desenvolvimento da feature de anexar arquivos aos pedidos de reembolso, pela implementação dos filtros de reembolsos e pela criação da tela inicial do usuário após o login. Minhas entregas contribuíram diretamente para melhorar a usabilidade e a organização das informações dentro do aplicativo.
 
 #### Hard skills
-Exercitei as seguintes hard skills durante esse projeto:
-* TypeScript - Uso com autonomia;
-* JavaScript - Uso com autonomia;
-* React Native - Uso com ajuda;
-* PostgreSQL - Uso com autonomia.
+Exercitei as seguintes competências durante esse projeto:
+* TypeScript - Aplicação com autonomia;
+* JavaScript - Aplicação com autonomia;
+* React Native - Aplicação com ajuda;
+* PostgreSQL - Aplicação com autonomia.
 
 #### Soft Skills
-Durante o projeto, foi necessário uma grande comunicação entre a equipe, pois tínhamos uma sprint a menos que o habitual, então as tarefas tiveram que ser divididas de acordo, mas com muita comunicação e cooperação da equipe, conseguimos terminar tudo no prazo.
+Este projeto exigiu comunicação intensa, pois a equipe tinha uma sprint a menos que o normal, o que demandou organização eficiente das tarefas e alinhamento constante. A cooperação do time foi essencial para que todas as funcionalidades fossem entregues dentro do prazo estabelecido.
 
-Além disso, a gestão do tempo e a organização foram fundamentais, já que o prazo reduzido exigia foco e priorização constante. Aprendi a lidar melhor com a pressão, mantendo o equilíbrio entre agilidade e qualidade, sempre buscando alinhar as entregas com os objetivos do time.
+Além disso, aprimorei minha gestão de tempo e priorização, aprendendo a lidar melhor com pressão e prazos reduzidos. Mantive o foco na qualidade das entregas, conciliando agilidade com atenção aos detalhes e colaborando ativamente para manter o ritmo do time.
 </details>
 
 <details>
 <summary>Sexto Semestre (2025-2)</summary>
-O projeto desenvolvido no sexto semestre do curso teve como empresa parceira a Xertica, uma empresa especializada em consultoria de nuvem pública e soluções de inteligência artificial. Os requisitos foram apresentados no KickOff pelo diretor da Xertica.
+<br>
 
-O problema apresentado consiste na falta de um nutricionista e ferramentas de nutrição confiáveis no dia-a-dia, o excesso de informações errôneas e falsas na internet, principalmente de pessoas que tem comorbidades ou problemas de saúde específicos.
+O projeto desenvolvido no sexto semestre do curso teve como empresa parceira a Xertica, uma empresa especializada em consultoria de nuvem pública e soluções de inteligência artificial. Os requisitos foram apresentados no KickOff pelo diretor da empresa, que desempehou o papel de cliente.
 
-Como solução foi desenvolvido um agente conversacional sobre nutrição para uma orientação personalizada para os usuários. Utilizando uma plataforma web, são coletadas as informações de anamnese para fornecer dietas e informações de acordo com as informações do usuário.
+**Problema:** O problema apresentado consiste na falta de um nutricionista e ferramentas de nutrição confiáveis no dia-a-dia, o excesso de informações errôneas e falsas na internet, principalmente de pessoas que tem comorbidades ou problemas de saúde específicos.
+
+**Solução:** Como solução foi desenvolvido um agente conversacional sobre nutrição para uma orientação personalizada para os usuários. Utilizando uma plataforma web, são coletadas as informações de anamnese para fornecer dietas e informações de acordo com as informações do usuário.
 
 [GIT](https://github.com/Byte-Boost/Junipy)
 
@@ -215,14 +218,14 @@ Neste projeto atuei como Dev Team e produzi o ajuste de saída do agente de diet
 
 #### Hard skills
 Exercitei as seguintes hard skills durante esse projeto:
-* Python - Uso com autonomia;
-* FastAPI - Uso com autonomia;
-* Java - Uso com autonomia;
-* SpringBoot - Uso com ajuda;
-* TypeScript - Uso com autonomia;
-* Vue - Uso com ajuda;
-* MySQL - Uso com autonomia;
-* MongoDB - Uso com ajuda.
+* Python - Aplicação com autonomia;
+* FastAPI - Aplicação com autonomia;
+* Java - Aplicação com autonomia;
+* SpringBoot - Aplicação com ajuda;
+* TypeScript - Aplicação com autonomia;
+* Vue - Aplicação com ajuda;
+* MySQL - Aplicação com autonomia;
+* MongoDB - Aplicação com ajuda.
 
 #### Soft Skills
 Durante o projeto, também desenvolvi diversas soft skills importantes. Trabalhei ativamente em equipe para integrar as diferentes partes do sistema e mantive uma comunicação clara com o time, garantindo alinhamento nas entregas. A resolução de problemas foi constante, especialmente ao ajustar a saída do agente de dieta e aprimorar o agente de anamnese.
