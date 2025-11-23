@@ -172,6 +172,7 @@ As principais tecnologias foram utilizadas nesse projeto:
 * TypeScript - Linguagem de programação utilizada pela sua tipagem estática e segura;
 * JavaScript - Linguagem de programação utilizada no backend para comunicação com o banco de dados;
 * React Native - Biblioteca utilizada para o desenvolvimento da interface mobile, integrada ao TypeScript;
+* Android Studio - IDE utilizada para compilar, emular e testar a aplicação mobile;
 * PostgreSQL - Banco de dados responsável por armazenar logins, despesas, anexos e demais informações.
 
 #### Contribuições Pessoais
@@ -182,6 +183,7 @@ Exercitei as seguintes competências durante esse projeto:
 * TypeScript - Aplicação com autonomia;
 * JavaScript - Aplicação com autonomia;
 * React Native - Aplicação com ajuda;
+* Android Studio - Aplicação com ajuda;
 * PostgreSQL - Aplicação com autonomia.
 
 #### Soft Skills
