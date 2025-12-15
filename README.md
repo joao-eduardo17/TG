@@ -23,9 +23,9 @@ Meu foco é principalmente no backend, onde possuo maior domínio na criação d
   
 O projeto desenvolvido no primeiro semestre do curso teve como empresa parceira a própria Fatec. Os requisitos foram apresentados pelo professor Antônio Egydio São Thiago Graça, que assumiu o papel de cliente final, orientando a equipe como se fosse uma instituição externa contratando uma solução.
 
-**Problema:** A necessidade central identificada era a dificuldade dos alunos em compreender a metodologia Scrum. Apesar de ser amplamente utilizada em projetos de tecnologia e gestão ágil, muitos estudantes apresentavam dúvidas sobre como funcionava cada cerimônia do Scrum, quais eram os papéis e responsabilidades, como organizar sprints, backlog e entregas e como aplicar a teoria em situações práticas.
+**Problema:** A principal necessidade identificada foi a dificuldade enfrentada por alunos na compreensão e aplicação prática da metodologia Scrum. Apesar de ser amplamente adotada em projetos de tecnologia e em contextos de gestão ágil, observou-se que muitos estudantes apresentavam dificuldades em entender o funcionamento das cerimônias do Scrum, os papéis e responsabilidades envolvidos, bem como a organização de sprints, backlog e entregas. Além disso, havia um distanciamento entre o conteúdo teórico apresentado em sala de aula e sua aplicação em situações práticas, o que comprometia o aprendizado efetivo da metodologia.
 
-**Solução:** Como solução foi desenvolvido um site que ensinava a metodologia Scrum de forma prática, tanto por vídeos quanto por questões ao final de cada sessão. O conteúdo era apresentado de forma sequencial, combinando explicações objetivas com vídeos que tornavam o aprendizado mais acessível. Além disso, ao final de cada sessão, o usuário respondia a questões que reforçavam o entendimento e permitiam verificar na hora se havia compreendido o tema.
+**Solução:** Como solução, foi desenvolvido um site educacional com o objetivo de ensinar a metodologia Scrum de forma didática, prática e progressiva. O conteúdo foi estruturado de maneira sequencial, combinando explicações objetivas com vídeos explicativos, facilitando a assimilação dos conceitos. Ao final de cada sessão, o usuário respondia a questões de fixação, que permitiam reforçar o aprendizado e avaliar imediatamente o nível de compreensão sobre o tema abordado. Dessa forma, a plataforma proporcionou uma experiência de aprendizado mais interativa, acessível e alinhada à aplicação prática da metodologia Scrum.
 
 [GIT](https://github.com/Sandro-Pimentel/AReS)
 
@@ -60,9 +60,9 @@ Utilizei de muita comunicação para ajudar minha equipe, tanto com dados novos 
 
 O projeto desenvolvido no segundo semestre do curso teve como empresa parceira a própria Fatec. Os requisitos foram apresentados pelo professor Giuliano Araújo Bertoti, que assumiu o papel de cliente final e acompanhou todas as etapas do desenvolvimento.
 
-**Problema:** O problema apresentado consistia na dificuldade dos usuários em ler arquivos extensos e localizar informações específicas, tornando o processo lento, cansativo e vulnerável a erros.
+**Problema:** O problema identificado consistia na dificuldade dos usuários em ler e interpretar arquivos extensos, bem como em localizar informações específicas de forma rápida e eficiente. Esse processo, quando realizado manualmente, tornava-se demorado, cansativo e suscetível a erros, comprometendo a produtividade e a confiabilidade na extração das informações necessárias.
 
-**Solução:** Como solução, foi criado um ChatBot capaz de responder perguntas com base na análise prévia de um arquivo, oferecendo maior velocidade, precisão e praticidade na busca por informações.
+**Solução:** Como solução, foi desenvolvido um ChatBot inteligente capaz de analisar previamente os arquivos e responder às perguntas dos usuários com base em seu conteúdo. A ferramenta proporcionou maior agilidade, precisão e praticidade na busca por informações, reduzindo o tempo gasto na leitura manual e minimizando a ocorrência de erros, além de tornar o acesso aos dados mais eficiente e intuitivo.
 
 [GIT](https://github.com/VituuSaborito/Lotus)
 
@@ -91,9 +91,9 @@ A comunicação foi essencial para o bom andamento da equipe. Compartilhei frequ
 
 O projeto desenvolvido no terceiro semestre do curso teve como empresa parceira a Pro4Tech, uma empresa especializada em transformação digital e soluções de Inteligência Artificial. Os requisitos foram apresentados durante o KickOff por um representante da empresa, que assumiu o papel de cliente final.
 
-**Problema:** O problema identificado estava relacionado à dificuldade em analisar e armazenar informações de planilhas Excel em grande volume. Esse processo, quando realizado de forma manual, era lento e sujeito a falhas.
+**Problema:** O problema identificado estava relacionado à dificuldade em analisar, organizar e armazenar grandes volumes de dados provenientes de planilhas Excel. Quando realizado de forma manual, esse processo tornava-se demorado, pouco eficiente e suscetível a falhas, dificultando a interpretação dos dados e a tomada de decisões.
 
-**Solução:** Como solução, foi desenvolvido um dashboard interativo, com uma interface intuitiva que permitia o envio das planilhas e exibia automaticamente os dados processados em forma de gráficos, tornando a análise mais acessível para o usuário.
+**Solução:** Como solução, foi desenvolvido um dashboard interativo com uma interface intuitiva, que permitia o envio das planilhas e realizava automaticamente o processamento e a visualização dos dados por meio de gráficos. Dessa forma, a ferramenta tornou a análise mais ágil, acessível e confiável, facilitando a compreensão das informações pelo usuário.
 
 [GIT](https://github.com/Code-Lotus/api-3)
 
@@ -105,7 +105,7 @@ As principais tecnologias adotadas ao longo do desenvolvimento foram:
 * MySQL - Banco de dados responsável por armazenar logins e demais informações persistentes.
 
 #### Contribuições Pessoais
-Atuei como Dev Team, sendo responsável pela criação da tela de login, das páginas iniciais voltadas para administradores e usuários, além do desenvolvimento de funções no backend e da estruturação do banco de dados.
+Nesse projeto atuei como membro do Dev Team, sendo responsável pelo desenvolvimento da tela de login, das páginas iniciais (home) destinadas a administradores e usuários, além da implementação de funcionalidades no backend. Também participei da estruturação do banco de dados, contribuindo para a organização, integridade e funcionamento adequado do sistema.
 
 #### Hard Skills
 Exercitei as seguintes competências durante esse projeto:
@@ -126,9 +126,9 @@ Além disso, desenvolvi resiliência ao lidar com desafios técnicos e proativid
 
 O projeto desenvolvido no quarto semestre do curso teve como empresa parceira a JJM LOG, uma empresa especializada em transporte e logística integrada. Os requisitos foram apresentados durante o KickOff por um representante da JJM LOG, que assumiu o papel de cliente.
 
-**Problema:** O problema central identificado envolvia dificuldades no gerenciamento logístico, resultantes da falta de integração entre setores e falhas na comunicação interna, o que impactava a eficiência.
+**Problema:** O problema central identificado estava relacionado às dificuldades no gerenciamento logístico, decorrentes da falta de integração entre os setores e de falhas na comunicação interna. Essas limitações comprometiam o fluxo de informações, ocasionavam retrabalho e impactavam negativamente a eficiência operacional da organização.
 
-**Solução:** Como solução, foi desenvolvida uma plataforma integrada capaz de centralizar funções essenciais da rotina empresarial, organizar informações em um único ambiente e melhorar a comunicação entre equipes.
+**Solução:** Como solução, foi desenvolvida uma plataforma integrada com o objetivo de centralizar funções essenciais da rotina empresarial, organizar as informações em um ambiente único e estruturado e otimizar a comunicação entre as equipes. A solução contribuiu para a melhoria dos processos internos, proporcionando maior controle, agilidade e eficiência nas operações logísticas.
 
 [GIT](https://github.com/Byte-Boost/WeCollab)
 
@@ -140,7 +140,7 @@ As seguintes tecnologias foram utilizadas nesse projeto:
 * MySQL - Banco de dados usado para armazenar logins, tickets e demais informações da plataforma.
 
 #### Contribuições Pessoais
-Atuei como Dev Team, contribuindo diretamente para o desenvolvimento da página de upload de arquivos, da estilização da página de usuários e da implementação das rotas e componentes referentes ao sistema de tickets, garantindo o funcionamento consistente dessas áreas da aplicação.
+Atuei como membro do Dev Team, contribuindo de forma ativa para o desenvolvimento da página de upload de arquivos, incluindo a implementação de validações e integração com o backend. Também fui responsável pela estilização e organização da página de usuários, visando melhorar a usabilidade e a consistência visual da aplicação. Além disso, participei da implementação das rotas e dos componentes do sistema de tickets, colaborando para a integração entre frontend e backend e garantindo o funcionamento correto e estável dessas funcionalidades.
 
 #### Hard skills
 Exercitei as seguintes competências durante esse projeto:
@@ -161,9 +161,9 @@ Desenvolvi resiliência emocional, lidando bem com a mudança de ambiente e mant
 
 O projeto desenvolvido no quinto semestre do curso teve como empresa parceira a GSW, uma empresa especializada no desenvolvimento e implantação de soluções corporativas. Os requisitos foram apresentados durante o KickOff por um representante da empresa, que desempenhou o papel de cliente.
 
-**Problema:** O problema identificado estava relacionado à gestão ineficiente de reembolsos e despesas, causada por processos manuais, falhas de organização e ausência de integração entre setores, o que gerava atrasos e inconsistências no controle financeiro interno.
+**Problema:** O problema identificado estava relacionado à gestão ineficiente de reembolsos e despesas, decorrente de processos manuais, falhas na organização das informações e da ausência de integração entre os setores envolvidos. Essas limitações ocasionavam atrasos, inconsistências no controle financeiro interno e dificuldades no acompanhamento das solicitações.
 
-**Solução:** Como solução, foi desenvolvida uma aplicação móvel que permite aos funcionários registrar suas despesas diretamente pelo celular, anexar comprovantes e acompanhar o status dos reembolsos, tornando o processo mais ágil, prático e centralizado.
+**Solução:** Como solução, foi desenvolvida uma aplicação móvel que possibilita aos funcionários registrar despesas diretamente pelo celular, anexar comprovantes e acompanhar o status dos reembolsos em tempo real. A solução tornou o processo mais ágil, prático e centralizado, contribuindo para maior controle, transparência e eficiência na gestão financeira.
 
 [GIT](https://github.com/Byte-Boost/ExpenseFlow)
 
@@ -176,7 +176,7 @@ As principais tecnologias foram utilizadas nesse projeto:
 * PostgreSQL - Banco de dados responsável por armazenar logins, despesas, anexos e demais informações.
 
 #### Contribuições Pessoais
-Neste projeto, atuei como Dev Team, sendo responsável pelo desenvolvimento da feature de anexar arquivos aos pedidos de reembolso, pela implementação dos filtros de reembolsos e pela criação da tela inicial do usuário após o login. Minhas entregas contribuíram diretamente para melhorar a usabilidade e a organização das informações dentro do aplicativo.
+Neste projeto, atuei como membro do Dev Team, sendo responsável pelo desenvolvimento da funcionalidade de anexação de arquivos aos pedidos de reembolso, contemplando a integração com o backend e o armazenamento seguro dos dados. Também implementei os filtros de reembolsos, permitindo a organização e a consulta eficiente das solicitações conforme critérios definidos pelo usuário. Além disso, desenvolvi a tela inicial do usuário após o login, focando na clareza das informações apresentadas e na melhoria da experiência de uso. Essas contribuições impactaram diretamente na usabilidade, organização dos dados e eficiência operacional do aplicativo.
 
 #### Hard skills
 Exercitei as seguintes competências durante esse projeto:
@@ -198,9 +198,9 @@ Além disso, aprimorei minha gestão de tempo e priorização, aprendendo a lida
 
 O projeto desenvolvido no sexto semestre do curso teve como empresa parceira a Xertica, uma empresa especializada em consultoria de nuvem pública e soluções de inteligência artificial. Os requisitos foram apresentados no KickOff pelo diretor da empresa, que desempehou o papel de cliente.
 
-**Problema:** O problema apresentado consiste na falta de um nutricionista e ferramentas de nutrição confiáveis no dia-a-dia, o excesso de informações errôneas e falsas na internet, principalmente de pessoas que tem comorbidades ou problemas de saúde específicos.
+**Problema:** O problema identificado estava relacionado à ausência de acompanhamento nutricional acessível e confiável no dia a dia, aliada à grande quantidade de informações incorretas ou enganosas disponíveis na internet. Essa situação impacta principalmente pessoas com comorbidades ou condições de saúde específicas, que necessitam de orientações nutricionais personalizadas e seguras.
 
-**Solução:** Como solução foi desenvolvido um agente conversacional sobre nutrição para uma orientação personalizada para os usuários. Utilizando uma plataforma web, são coletadas as informações de anamnese para fornecer dietas e informações de acordo com as informações do usuário.
+**Solução:** Como solução, foi desenvolvido um agente conversacional voltado à nutrição, capaz de oferecer orientação personalizada aos usuários. Por meio de uma plataforma web, são coletadas informações de anamnese, que servem de base para a geração de dietas e recomendações nutricionais adequadas às necessidades individuais de cada usuário, promovendo maior segurança, praticidade e confiabilidade no acesso às informações.
 
 [GIT](https://github.com/Byte-Boost/Junipy)
 
@@ -216,7 +216,7 @@ As seguintes tecnologias foram utilizadas nesse projeto:
 * MongoDB - Banco de dados não relacional usado para informações do usuário.
 
 #### Contribuições Pessoais
-Neste projeto atuei como Dev Team e produzi o ajuste de saída do agente de dieta, a tela de dietas para enviar ao nutricionista e o agente de anamnese, que coleta as informações do usuário para fazer as dietas.
+Neste projeto, atuei como membro do Dev Team, sendo responsável pelo ajuste e refinamento das respostas geradas pelo agente de dieta, visando maior clareza e adequação às necessidades do usuário. Também desenvolvi a tela de dietas destinada ao envio das informações ao nutricionista, garantindo a correta organização e apresentação dos dados. Além disso, implementei o agente de anamnese, responsável pela coleta estruturada das informações do usuário, que servem de base para a geração das dietas personalizadas pelo sistema.
 
 #### Hard skills
 Exercitei as seguintes hard skills durante esse projeto:
