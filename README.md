@@ -105,7 +105,7 @@ As principais tecnologias adotadas ao longo do desenvolvimento foram:
 * MySQL - Banco de dados responsável por armazenar logins e demais informações persistentes.
 
 #### Contribuições Pessoais
-Nesse projeto atuei como membro do Dev Team, sendo responsável pelo desenvolvimento da tela de login, das páginas iniciais (home) destinadas a administradores e usuários, além da implementação de funcionalidades no backend. Também participei da estruturação do banco de dados, contribuindo para a organização, integridade e funcionamento adequado do sistema.
+Atuei como membro do Dev Team, com participação no desenvolvimento frontend e backend da aplicação. Fui responsável pela implementação da tela de login e das páginas iniciais (home) para administradores e usuários, utilizando React com TypeScript, incluindo validações, controle de estado e renderização conforme o nível de acesso. Também contribuí na integração com o backend, no apoio às funcionalidades de autenticação e na estruturação do banco de dados MySQL, colaborando na definição de tabelas e regras de integridade para garantir o correto funcionamento do sistema.
 
 #### Hard Skills
 Exercitei as seguintes competências durante esse projeto:
@@ -140,7 +140,7 @@ As seguintes tecnologias foram utilizadas nesse projeto:
 * MySQL - Banco de dados usado para armazenar logins, tickets e demais informações da plataforma.
 
 #### Contribuições Pessoais
-Atuei como membro do Dev Team, contribuindo de forma ativa para o desenvolvimento da página de upload de arquivos, incluindo a implementação de validações e integração com o backend. Também fui responsável pela estilização e organização da página de usuários, visando melhorar a usabilidade e a consistência visual da aplicação. Além disso, participei da implementação das rotas e dos componentes do sistema de tickets, colaborando para a integração entre frontend e backend e garantindo o funcionamento correto e estável dessas funcionalidades.
+Atuei como membro do Dev Team, com contribuição técnica direta no frontend e backend da aplicação. Fui responsável pelo desenvolvimento da página de upload de arquivos, implementando validações de entrada, tratamento de erros e integração com o backend por meio de requisições HTTP para envio e processamento dos dados. Também realizei a estilização e organização da página de usuários, utilizando componentes React e boas práticas de UI para garantir melhor usabilidade, responsividade e consistência visual. Além disso, participei da implementação das rotas e dos componentes do sistema de tickets, auxiliando na lógica de criação, listagem e atualização de registros, bem como na integração entre o frontend em React e o backend em JavaScript com banco de dados MySQL, assegurando o correto funcionamento e a estabilidade das funcionalidades.
 
 #### Hard skills
 Exercitei as seguintes competências durante esse projeto:
@@ -176,7 +176,7 @@ As principais tecnologias foram utilizadas nesse projeto:
 * PostgreSQL - Banco de dados responsável por armazenar logins, despesas, anexos e demais informações.
 
 #### Contribuições Pessoais
-Neste projeto, atuei como membro do Dev Team, sendo responsável pelo desenvolvimento da funcionalidade de anexação de arquivos aos pedidos de reembolso, contemplando a integração com o backend e o armazenamento seguro dos dados. Também implementei os filtros de reembolsos, permitindo a organização e a consulta eficiente das solicitações conforme critérios definidos pelo usuário. Além disso, desenvolvi a tela inicial do usuário após o login, focando na clareza das informações apresentadas e na melhoria da experiência de uso. Essas contribuições impactaram diretamente na usabilidade, organização dos dados e eficiência operacional do aplicativo.
+Atuei como membro do Dev Team, com participação técnica no desenvolvimento mobile e backend da aplicação. Fui responsável pela implementação da funcionalidade de anexação de arquivos aos pedidos de reembolso, incluindo a captura de arquivos no React Native, validações de formato e tamanho, envio ao backend por meio de requisições HTTP e apoio ao armazenamento seguro dos dados no banco PostgreSQL. Também desenvolvi os filtros de reembolsos, implementando lógica de consulta e organização das solicitações conforme critérios definidos pelo usuário, otimizando a recuperação das informações. Além disso, implementei a tela inicial do usuário pós-login, estruturando os componentes, o fluxo de dados e a apresentação das informações para garantir melhor usabilidade, clareza e eficiência na experiência do usuário.
 
 #### Hard skills
 Exercitei as seguintes competências durante esse projeto:
@@ -216,7 +216,7 @@ As seguintes tecnologias foram utilizadas nesse projeto:
 * MongoDB - Banco de dados não relacional usado para informações do usuário.
 
 #### Contribuições Pessoais
-Neste projeto, atuei como membro do Dev Team, sendo responsável pelo ajuste e refinamento das respostas geradas pelo agente de dieta, visando maior clareza e adequação às necessidades do usuário. Também desenvolvi a tela de dietas destinada ao envio das informações ao nutricionista, garantindo a correta organização e apresentação dos dados. Além disso, implementei o agente de anamnese, responsável pela coleta estruturada das informações do usuário, que servem de base para a geração das dietas personalizadas pelo sistema.
+Atuei como membro do Dev Team, com contribuições técnicas focadas na IA, backend e frontend da aplicação. Fui responsável pelo ajuste e refinamento das respostas do agente de dieta, atuando na lógica de geração e pós-processamento das respostas para garantir maior clareza, coerência e adequação às informações fornecidas pelos usuários. Também desenvolvi a tela de dietas no frontend, estruturando os componentes em Vue com TypeScript para envio organizado e seguro dos dados ao nutricionista por meio das APIs. Além disso, implementei o agente de anamnese, responsável pela coleta estruturada das informações do usuário, definindo o fluxo de perguntas, validações e integração com o backend em FastAPI e Spring Boot, com persistência dos dados em MongoDB e MySQL, servindo como base para a geração de dietas personalizadas pelo sistema.
 
 #### Hard skills
 Exercitei as seguintes hard skills durante esse projeto:
